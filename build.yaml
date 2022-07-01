@@ -32,4 +32,13 @@ include:
     shield: corne_left
   - board: nrfmicro_13
     shield: corne_right
-    
+include:
+  - board: nrfmicro_13
+    shield: corne_left
+  - board: nrfmicro_13
+    shield: corne_right
+include:
+  - board: sofle_left
+    shield: nice_nano_v2
+  - board: sofle_right
+    shield: nice_nano_v2
