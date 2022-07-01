@@ -33,8 +33,3 @@ include:
   - board: nrfmicro_13
     shield: corne_right
     
-include:
-  - board: nice_nano
-    shield: sofle_left
-  - board: nice_nano
-    shield: sofle_right
