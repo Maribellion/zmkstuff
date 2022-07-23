@@ -20,7 +20,7 @@
 //                    | CTRL | LWR | BKSP |   | SPC | RSE  | ALT |
                         bindings = <
    &kp ESC   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SEMI    &kp DEL
-   &kp TAB   &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O &kp SQT
+   &kp TAB   &kp A &kp R &kp S &kp T &bt BT_CLR   &kp M &kp N  &kp E     &kp I   &kp O &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp RET
                   &kp LCTRL &mo 1 &kp BSPC   &kp SPACE &mo 2 &kp RALT
                         >;
